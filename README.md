@@ -1,7 +1,8 @@
 # HACKTORIA CTF
 CTF Writeup : **KLUMGONGYN RETURNS**
 
-Classed on the Hacktoria website as level: `Insane`
+Classed on the Hacktoria website as level: `Hard`
+(Hacktoria had initially set this CTF to level insane, then it was changed hard) 
 
 <br>
 
